@@ -70,6 +70,4 @@ Follow these exact steps to run the application locally:
 | `PORT` | Port for the backend server | `/server/.env` | `3001` |
 | `VITE_API_BASE_URL` | The base URL for the backend API | `/client/.env` (optional) | `http://localhost:3001` |
 
-## Links
-- Demo video: [link]
-- Live demo: [link]
+
